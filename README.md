@@ -35,20 +35,6 @@ The portfolio showcases my background, skills, certifications, and projects.
 ---
 
 ## 📂 Project Setup
-To run locally:  
-
-```bash
-# Clone the repository
-git clone https://github.com/PHINDILE1996/Professional-Portfolio.git
-
-# Navigate to folder
-cd Professional-Portfolio
-
-# Install dependencies
-npm install
-
-# Run development server
-npm start
 
 ## *Tech Stack*
 <p align="left">
