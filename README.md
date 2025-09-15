@@ -1,5 +1,55 @@
 ## Hi there 👋
 my name is NORAH PHINDILE LEBESE, An IT Enthusiast with a Diploma in IT, i enjoy creating software solutiond, exploring new technologies and learning continuously.
+# Professional Portfolio
+
+Hi 👋, I’m **Norah Phindile Lebese**  
+
+This repository contains the source code for my personal **portfolio website**.  
+The portfolio showcases my background, skills, certifications, and projects.  
+
+---
+
+## 🚀 About Me
+- 🎓 Diploma in IT  
+- 📘 NQF5 Project Management  
+- 📘 NQF4 Business Administration  
+- 🤖 Recent AI/ML Bootcamp Graduate  
+- 🌱 Passionate about technology, AI, and problem-solving  
+
+---
+
+## 🖥️ Portfolio Features
+- Responsive design for desktop & mobile  
+- Sections for **About, Skills, Projects, Contact**  
+- Downloadable CV option  
+- Modern UI with React  
+
+---
+
+## 🛠️ Built With
+- **React.js**  
+- **Tailwind CSS**  
+- **JavaScript/TypeScript**  
+- **Node.js** (for backend if applicable)  
+
+---
+
+## 📂 Project Setup
+To run locally:  
+
+```bash
+# Clone the repository
+git clone https://github.com/PHINDILE1996/Professional-Portfolio.git
+
+# Navigate to folder
+cd Professional-Portfolio
+
+# Install dependencies
+npm install
+
+# Run development server
+npm start
+
 ## *Tech Stack*
 <p align="left">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
