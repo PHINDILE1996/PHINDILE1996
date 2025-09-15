@@ -1,11 +1,6 @@
 ## Hi there 👋
 my name is NORAH PHINDILE LEBESE, An IT Enthusiast with a Diploma in IT, i enjoy creating software solutiond, exploring new technologies and learning continuously.
-# Professional Portfolio
-
-Hi 👋, I’m **Norah Phindile Lebese**  
-
-This repository contains the source code for my personal **portfolio website**.  
-The portfolio showcases my background, skills, certifications, and projects.  
+# Professional Portfolio 
 
 ---
 
