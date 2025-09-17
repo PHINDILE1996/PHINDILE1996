@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name is NORAH PHINDILE LEBESE, An IT Enthusiast with a Diploma in IT, i enjoy creating software solutiond, exploring new technologies and learning continuously.
+my name is NORAH PHINDILE LEBESE, “Diploma in IT, with a major in Networks, complemented by training in AI/ML. Currently transitioning into Cybersecurity to build on my networking expertise and specialize in protecting systems, data, and infrastructure.”
 # Professional Portfolio 
 
 ---
