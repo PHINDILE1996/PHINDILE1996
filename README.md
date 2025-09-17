@@ -49,7 +49,11 @@ my name is NORAH PHINDILE LEBESE, “Diploma in IT, with a major in Networks, co
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
- ![AI](https://img.shields.io/badge/AI-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)  
+![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge&logo=openai&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=security&logoColor=white) 
+![Networks](https://img.shields.io/badge/Networks-0061A8?style=for-the-badge&logo=cisco&logoColor=white)
+ 
 
  
 
