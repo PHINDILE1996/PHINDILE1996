@@ -4,13 +4,13 @@ my name is NORAH PHINDILE LEBESE, “Diploma in IT, with a major in Networks, co
 
 ---
 
-## 🚀 About Me
-- 🎓 Diploma in IT (Majored in NETWORKS)  
-- 📘 NQF5 Project Management  
-- 📘 NQF4 Business Administration  
-- 🤖 Recent AI/ML Bootcamp Graduate  
-- 🌱 Passionate about technology, AI, and problem-solving  
-
+## About Me
+🎓 Diploma in IT (Majored in Networks)
+📘 NQF5 Project Management
+📘 NQF4 Business Administration
+🤖 Recent AI/ML Bootcamp Graduate
+🛡️ Aspiring Cybersecurity Professional (Building on my networking foundation to specialize in system and data protection)
+🌱 Passionate about technology, AI, cybersecurity, and problem-solving
 ---
 
 ## 🖥️ Portfolio Features
