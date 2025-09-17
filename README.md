@@ -5,6 +5,7 @@ my name is NORAH PHINDILE LEBESE, “Diploma in IT, with a major in Networks, co
 ---
 
 ## About Me
+
 🎓 Diploma in IT (Majored in Networks)
 📘 NQF5 Project Management
 📘 NQF4 Business Administration
