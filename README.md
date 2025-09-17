@@ -5,7 +5,7 @@ my name is NORAH PHINDILE LEBESE, An IT Enthusiast with a Diploma in IT, i enjoy
 ---
 
 ## 🚀 About Me
-- 🎓 Diploma in IT  
+- 🎓 Diploma in IT (Majored in NETWORKS)  
 - 📘 NQF5 Project Management  
 - 📘 NQF4 Business Administration  
 - 🤖 Recent AI/ML Bootcamp Graduate  
